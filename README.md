@@ -17,6 +17,7 @@ My name is Paulo and I'm from Brazil
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHenriq19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+  ![Snake animation](https://github.com/PauloHenriq19/PauloHenriq19/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 PauloHenriq19/PauloHenriq19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
